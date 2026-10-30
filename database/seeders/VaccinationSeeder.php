@@ -71,7 +71,7 @@ class VaccinationSeeder extends Seeder
                 'purok' => 'Purok 4',
                 'vaccine' => 'Pentavalent',
                 'dose' => '3rd dose',
-                'scheduled_at' => '2026-07-15',
+                'scheduled_at' => '2026-06-16',
                 'status' => 'Scheduled',
             ],
         ];
